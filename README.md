@@ -12,4 +12,4 @@ source code, bot starter projects and more info.
 
 ## Presentation
 
-Reveal.js intoduction presentation. See the [subfolder's README](./presentation/README.md).
+Reveal.js intoduction presentation. See the [subfolder's README](./presentation/README.md); [deployed version](rd-gleb-ostrowski.github.io/agentic-code-retreat-public/).
